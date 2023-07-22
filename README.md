@@ -23,5 +23,13 @@ Under the umbrella of "Technology" lies a powerful combination of
    - CardView
 - Layout
    - Nested linear layout
+
+## <h1 align=center>📱Screenshots 📸</h1>
+
+
+||||
+|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
+| <img src= "https://github.com/NehaVns/Knowledge-Hub/blob/master/Screen_1.png" width="80%" height="70%"> | <img src= "https://github.com/NehaVns/Knowledge-Hub/blob/master/Screen_5.jpg" width="80%" height="70%"> | <img src= "https://github.com/NehaVns/Knowledge-Hub/blob/master/Screen_4.jpg" width="80%" height="70%"> |
+| | <img src= "https://github.com/NehaVns/Knowledge-Hub/blob/master/Screen_3.jpg" width="80%" height="70%"> | 
   
 
